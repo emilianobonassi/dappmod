@@ -26,7 +26,8 @@ To use user scripts you need to first install a user script manager. Here are ma
 
 ### Analysis
 * [Tenderly Utils](https://github.com/emilianobonassi/tenderly-dappmod/raw/main/tenderly-dappmod.user.js) - Enhance etherscan showing links for debugging and dive deep transactions
-
+* [Rarity Utils]((https://github.com/emilianobonassi/rarity-dappmod/raw/main/rarity-dappmod.user.js) - Decorate OpenSea adding link to rarity.tools
+ 
 ### NFT
 
 TBC
